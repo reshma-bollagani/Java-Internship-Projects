@@ -28,42 +28,34 @@ Each program demonstrates important Java programming concepts such as syntax, OO
 🔹 Task 2 – Calculator
 ===================================
         Simple Calculator
-===================================
 Enter first number: 10
 Enter operator (+, -, *, /): *
 Enter second number: 5
------------------------------------
 Result: 50.0
-===================================
 
 🔹 Task 3 – OOP Demo
 ===================================
    OOP with Classes – Alfido Tech
-===================================
------------------------------------
 Employee Name: Reshma
 Employee ID: 101
 Salary: ₹65000.0
 Reshma is developing software using Java.
------------------------------------
+
 Employee Name: Rupa
 Employee ID: 102
 Salary: ₹85000.0
 Ankit is managing a team of 5 employees.
-===================================
-        Program Completed
-===================================
+ Program Completed
+
 🔹Task 4 – File Reader
 ========================
        File Reader
-========================
 Enter the file name: Sample.txt
 File contents:
 Hello from Alfido Tech Internship!
 This is a sample text file.
-========================
     Program Completed
-========================
+
 
 🧑‍💻 Internship Details
 Internship Domain: Java Developer
