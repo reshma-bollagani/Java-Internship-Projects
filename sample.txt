@@ -1,0 +1,2 @@
+Welcome to Alfido Tech Internship.
+This is Task4_FileReader example.
